@@ -50,9 +50,7 @@ https://www.docker.com/products/docker-desktop
 
 ## Running the project
 
-First thing is checking 8084 port on your computer. If it is not available please define the port information which is available, onto some documents under the project. This is described below here;  
-
-- #### "EXPOSE 8084" on DockerFile
+First thing is checking 6379 port on your computer. If it is not available please define the port information which is available, onto some documents under the project. This is described below here;  
 
 Then, run these commands to dockerize this application;
 
